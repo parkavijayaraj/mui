@@ -1,0 +1,8 @@
+#product-list{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 10px;
+  background-color: whitesmoke;
+  padding-left: 100px;
+}
